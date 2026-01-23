@@ -13,4 +13,4 @@ while vidas > 0:
     vidas -= 1
     palpite = int(input("Digite seu palpite: "))
 if vidas == 0:
-    print (f'O numero secreto era {secreto}')
+    print (f'O numero secereto era {secreto}')
