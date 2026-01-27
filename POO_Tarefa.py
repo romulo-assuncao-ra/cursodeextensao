@@ -88,4 +88,4 @@ while True:
             print('Saindo do Sistema...')
             break
         case _:
-            print('Opcao invalida')
+            print('Opcao invalida selecione')
