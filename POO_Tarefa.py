@@ -1,6 +1,6 @@
 #como fazer um gerenciador de tarefas em POO
 #primeiro, vamos pensar, quais classes vamos precisar e o que cada classe precisa para ser criada:
-#classes Tarefa, Gerenciador.
+#classes Tarefa   , Gerenciador.
 
 class Tarefa:
     def __init__(self, categoria: str, descricao: str, urgencia: str, diasRestantes: int):
