@@ -33,7 +33,7 @@ class Gerenciador:
             self.listaTarefas.append(novaTarefa)
             print(f'Tarefa criada com sucesso!')
         except ValueError:
-            print("Erro do tipo de dados de cadastro")
+            print("Error do tipo de dados de cadastro")
 
     def listarTarefa(self):
         if not self.listaTarefas:
