@@ -1,5 +1,6 @@
 #Fazendo um CRUD em POO
 #Quais seriam as classes: Cliente, GerenciadorHotel
+#Alteração
 
 class Cliente:
     def __init__(self, nome: str, idade: int, documento: str, saldo: float, diasEstadia: int):
