@@ -1,5 +1,6 @@
 #Fazendo um CRUD em POO
 #Quais seriam as classes: Cliente, GerenciadorHotel
+#Alteração
 
 
 class Cliente:
